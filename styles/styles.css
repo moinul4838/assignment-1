@@ -1,11 +1,14 @@
 .banner{
-    padding: 30px 30px 0px 150px;
+    padding: 30px 30px 5px 150px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0px 200px;
     gap: 100px;
     
+}
+.banner-title{
+    margin-bottom: px;
 }
 header{
     background: rgba(229, 84, 115, 0.10);
@@ -18,21 +21,97 @@ header{
     border-radius:5px;
 }
 .img{
-    width: 635px;
+    width: 600px;
     height: 800px;
+    margin-top: 80px;
 }
 
 .section1-head{
     background:  #FFF;
-    padding: 40px 240px 10px;
+    padding: 0px 240px ;
 }
 .section1-title{
     color: #272727;
     text-align: center;
     font-size: 40px;
     margin-bottom: 5px;
+    margin-top: 100px;
 }
 .section1-description{
     text-align: center;
     color:  #757575;
+    
 }
+.section1-flower{
+    display: flex;
+    padding: 5px 240px;
+    margin-top: 10px;
+    
+
+}
+#pic{
+    width: 250px;
+    height: 300px;
+    background:  rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    
+    
+}
+.section1-pic{
+    padding: 10px 15px;
+    
+}
+.section1-pera{
+    color: #272727;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.box{
+    background: rgba(39, 39, 39, 0.05);
+    margin-top: 20px;
+    width: 1440px;
+    height: 320px;
+    display: flex;
+    align-items: center;
+    
+}
+.box1{
+    margin: 150px 100px 110px 300px;
+   
+}
+.box2{
+    margin: 150px 100px 110px 80px;
+   
+}
+.box3{
+    margin: 150px 100px 110px 80px;
+   
+}
+.btn-primary-1{
+    background: #E55473;
+    color: aliceblue;
+    padding: 10px 15px;
+    border-radius:5px;
+  
+    
+}
+.percent-off{
+      padding: 250px 30px 250px 500px; ;
+    
+}
+span{
+    color: #f10b3d;
+}
+.percent{
+    display: flex;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 80px;
+}
+#png8{
+    width: 318px;
+    height: 420px;
+    padding: 100px 400px 100px 0px;
+}
+
+
