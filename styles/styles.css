@@ -55,8 +55,12 @@ header{
     padding: 5px 1px;
     margin-top: 10px;
     gap: 15px;
-    
+ 
 
+}
+.cover-describe{
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 #pic1{
        padding: 110px 78px 0px 76px;
@@ -66,6 +70,10 @@ header{
 }
 #pic3{
     padding: 67px 75px 0px 75px;
+}
+.section1-description{
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 .section111{
     background:  rgba(167, 33, 98, 0.15);
@@ -131,6 +139,8 @@ span{
 }
 .percent-description{
     color:  #757575;
+    margin-top:15px ;
+    margin-bottom: 15px;
 }
 #png8{
     width: 318px;
@@ -144,6 +154,8 @@ span{
 }
 .insta1{
     color:  #757575;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 .insta-flower{
     display: flex;
@@ -239,6 +251,10 @@ footer{
     margin-top: 10px;
     gap: 15px;
     margin-bottom: 20px;
+}
+.extra2{
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 .btn-primary3{
     background: #E55473;
