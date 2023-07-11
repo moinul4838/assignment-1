@@ -108,10 +108,43 @@ span{
     background: rgba(229, 84, 115, 0.05);
     margin-top: 80px;
 }
+.percent-description{
+    color:  #757575;
+}
 #png8{
     width: 318px;
     height: 420px;
     padding: 100px 400px 100px 0px;
 }
+.instagram{
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.insta1{
+    color:  #757575;
+}
+.insta-flower{
+    display: flex;
+    padding: 2px 240px 128px 240px;
+    justify-content: space-between;
+    gap: 20px;
+}
+.insta-flower-1{
+  width: 250px;
+   height: 300px;
+   
+   flex-shrink: 0;
+   background:  lightgray ;
+}
+#insta-flower-14{
+    background:  lightgray ;
+
+}
+#insta-flower-13{
+    background: url(<path-to-image>), rgb(230, 103, 19) 50% / cover no-repeat;
+}
+
+
 
 
