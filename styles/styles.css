@@ -14,6 +14,9 @@ header{
     background: rgba(229, 84, 115, 0.10);
 
 }
+.title{
+    font-size: 88px;
+}
 .btn-primary{
     background: #E55473;
     color: aliceblue;
@@ -50,15 +53,18 @@ header{
 
 }
 #pic{
-    width: 250px;
-    height: 300px;
+    
     background:  rgba(167, 33, 98, 0.15);
-    border-radius: 300px 300px 0px 0px;
+    width: 310px;
+    height: 428px;
     
     
 }
 .section1-pic{
     padding: 10px 15px;
+    border-radius: 300px 300px 0px 0px;
+    width: 464px;
+    height: 538px;
     
 }
 .section1-pera{
@@ -145,6 +151,65 @@ span{
     background: url(<path-to-image>), rgb(230, 103, 19) 50% / cover no-repeat;
 }
 
+.cover{
+    padding: 128px 240px;
+    background-image: url('../Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
+.cover1{
+    text-align: center;
 
+}
+.cover-h{
+    font-size: 40px;
+}
+.cover-describe{
+    font-size: 18px;
+    color:  #757575;
+}
+.btn-primary2{
+    background: #E55473;
+    color: aliceblue;
+    padding: 24px 26px;
+    border-radius:6px;
+}
+.cover-input{
+    text-align: center;
+}
+input{
+    width: 700px;
+    height: 64px;
+    background: #FFF;
+    padding: 0px 150px 0px 40px;
+    border-radius: 8px;
+    background: #FFF;
+}
+.footer1{
+    font-size: 48px;
+    text-align: center;
+   
+}
+footer{
+    background: #030303;
+    padding: 100px;
+    margin-top: 128px;
+   
+}
+.span1{
+    color: #ffffff;
 
+}
+.footer2{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    text-align: center;
+}
+.footer3{
+   color: rgba(255, 255, 255, 0.40);
+   font-size: 16px;
+   text-align: center;
+}
+
+    
