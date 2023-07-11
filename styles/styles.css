@@ -199,7 +199,7 @@ input{
 .footer1{
     font-size: 48px;
     text-align: center;
-   
+    margin-bottom: 5px;
 }
 footer{
     background: #030303;
